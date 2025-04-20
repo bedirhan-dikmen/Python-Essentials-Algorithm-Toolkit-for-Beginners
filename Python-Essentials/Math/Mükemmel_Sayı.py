@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 
-# Kullanıcıdan Alınan Sayının Mükemmel Olup Olmadığını Bulma:
-    
-# Bir sayının kendi hariç bölenlerinin toplamı kendine eşitse bu sayıya "Mükemmel Sayı" denir.
+"""
+Mükemmel_Sayı.py - Perfect Number Checker
+Checks if a number is perfect (sum of its proper divisors equals the number).
+
+Mükemmel_Sayı.py - Mükemmel Sayı Kontrolü
+Bir sayının mükemmel sayı olup olmadığını kontrol eder (kendisi hariç bölenlerinin toplamı sayıya eşittir).
+"""
 
 x = int(input("Sayi Giriniz:"))
 toplam = 0    

@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
 
+"""
+Asal_Sayı.py - Prime Number Checker
+Checks if a number is prime (divisible only by 1 and itself).
+
+Asal_Sayı.py - Asal Sayı Kontrolü
+Bir sayının asal olup olmadığını kontrol eder (sadece 1'e ve kendisine bölünebilir).
+"""
+
 def asal_mi(sayi):
     if (sayi == 1):
         return False

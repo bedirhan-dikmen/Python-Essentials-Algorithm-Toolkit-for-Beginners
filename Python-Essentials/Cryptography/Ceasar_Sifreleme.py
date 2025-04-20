@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
 
+"""
+Ceasar_Sifreleme.py - Caesar Cipher Encryption
+Implements the Caesar cipher for encrypting messages with a shift key.
+
+Ceasar_Sifreleme.py - Sezar Şifreleme
+Mesajları bir kaydırma anahtarı ile şifrelemek için Sezar şifreleme algoritmasını uygular.
+"""
+
 message = input("Bir mesaj girin: ")
 shift = int(input("Şifreleme anahtarını girin: "))
 

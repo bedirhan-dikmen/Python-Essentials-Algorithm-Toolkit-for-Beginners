@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
 
+"""
+Tas_Kagıt_Makas.py - Rock Paper Scissors Game
+A simple implementation of the classic Rock-Paper-Scissors game against the computer.
+
+Tas_Kagıt_Makas.py - Taş Kağıt Makas Oyunu
+Bilgisayara karşı oynanan klasik Taş-Kağıt-Makas oyununun basit bir uygulaması.
+"""
+
 import random  # random kütüphanesi çagırılır
 
 oyuncu = input("Seç (taş. kağıt ya da makas): ")

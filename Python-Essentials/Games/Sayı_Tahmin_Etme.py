@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
 
+"""
+Sayı_Tahmin_Etme.py - Number Guessing Game
+Two versions of a game where the player guesses a randomly generated number.
+
+Sayı_Tahmin_Etme.py - Sayı Tahmin Oyunu
+Oyuncunun rastgele üretilen bir sayıyı tahmin ettiği iki farklı oyun versiyonu.
+"""
+
 from random import randint
  
 rand=randint(1, 100)
